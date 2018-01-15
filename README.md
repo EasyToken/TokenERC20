@@ -1,2 +1,6 @@
 # TokenERC20
-ERC20 Standart Token
+
+Its own Crypto-currency on the Blockchain Ethereum.
+
+>>>Read Wiki<<<
+https://github.com/wrootlocal/TokenERC20/wiki
